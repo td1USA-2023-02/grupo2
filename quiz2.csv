@@ -4,7 +4,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target,nue
 4.7,3.2,1.3,0.2,0.0,No Margarita
 4.6,3.1,1.5,0.2,0.0,No Margarita
 5.0,3.6,1.4,0.2,0.0,No Margarita
-5.4,3.9,1.7,0.4,0.0,Margaritas
+5.4,3.9,1.7,0.4,0.0,No Margarita
 4.6,3.4,1.4,0.3,0.0,No Margarita
 5.0,3.4,1.5,0.2,0.0,No Margarita
 4.4,2.9,1.4,0.2,0.0,No Margarita
@@ -14,13 +14,13 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target,nue
 4.8,3.0,1.4,0.1,0.0,No Margarita
 4.3,3.0,1.1,0.1,0.0,No Margarita
 5.8,4.0,1.2,0.2,0.0,No Margarita
-5.7,4.4,1.5,0.4,0.0,Margaritas
-5.4,3.9,1.3,0.4,0.0,Margaritas
-5.1,3.5,1.4,0.3,0.0,Margaritas
-5.7,3.8,1.7,0.3,0.0,Margaritas
-5.1,3.8,1.5,0.3,0.0,Margaritas
+5.7,4.4,1.5,0.4,0.0,No Margarita
+5.4,3.9,1.3,0.4,0.0,No Margarita
+5.1,3.5,1.4,0.3,0.0,No Margarita
+5.7,3.8,1.7,0.3,0.0,No Margarita
+5.1,3.8,1.5,0.3,0.0,No Margarita
 5.4,3.4,1.7,0.2,0.0,No Margarita
-5.1,3.7,1.5,0.4,0.0,Margaritas
+5.1,3.7,1.5,0.4,0.0,No Margarita
 4.6,3.6,1.0,0.2,0.0,No Margarita
 5.1,3.3,1.7,0.5,0.0,No Margarita
 4.8,3.4,1.9,0.2,0.0,No Margarita
@@ -43,7 +43,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target,nue
 4.5,2.3,1.3,0.3,0.0,No Margarita
 4.4,3.2,1.3,0.2,0.0,No Margarita
 5.0,3.5,1.6,0.6,0.0,No Margarita
-5.1,3.8,1.9,0.4,0.0,Margaritas
+5.1,3.8,1.9,0.4,0.0,No Margarita
 4.8,3.0,1.4,0.3,0.0,No Margarita
 5.1,3.8,1.6,0.2,0.0,Margaritas
 4.6,3.2,1.4,0.2,0.0,No Margarita
@@ -108,7 +108,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target,nue
 4.9,2.5,4.5,1.7,2.0,No Margarita
 7.3,2.9,6.3,1.8,2.0,No Margarita
 6.7,2.5,5.8,1.8,2.0,No Margarita
-7.2,3.6,6.1,2.5,2.0,Margaritas
+7.2,3.6,6.1,2.5,2.0,No Margarita
 6.5,3.2,5.1,2.0,2.0,No Margarita
 6.4,2.7,5.3,1.9,2.0,No Margarita
 6.8,3.0,5.5,2.1,2.0,No Margarita
@@ -116,7 +116,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target,nue
 5.8,2.8,5.1,2.4,2.0,No Margarita
 6.4,3.2,5.3,2.3,2.0,No Margarita
 6.5,3.0,5.5,1.8,2.0,No Margarita
-7.7,3.8,6.7,2.2,2.0,Margaritas
+7.7,3.8,6.7,2.2,2.0,No Margarita
 7.7,2.6,6.9,2.3,2.0,No Margarita
 6.0,2.2,5.0,1.5,2.0,No Margarita
 6.9,3.2,5.7,2.3,2.0,No Margarita
@@ -130,7 +130,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target,nue
 6.4,2.8,5.6,2.1,2.0,No Margarita
 7.2,3.0,5.8,1.6,2.0,No Margarita
 7.4,2.8,6.1,1.9,2.0,No Margarita
-7.9,3.8,6.4,2.0,2.0,Margaritas
+7.9,3.8,6.4,2.0,2.0,No Margarita
 6.4,2.8,5.6,2.2,2.0,No Margarita
 6.3,2.8,5.1,1.5,2.0,No Margarita
 6.1,2.6,5.6,1.4,2.0,No Margarita
